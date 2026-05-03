@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Brian 👋
 
-<!--
-**mumobytes/mumobytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actuarial Science Student at University of Nairobi  
+📊 Aspiring Data Scientist & Machine Learning Engineer  
+💻 Python | SQL | Data Analysis | Visualization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- 📈 Actuarial & data science projects
+- 🤖 Machine learning models
+- 📊 Data analysis using Python & SQL
+
+---
+
+## 🧠 Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Excel
+- Data Visualization
+- Machine Learning (Beginner → Intermediate)
+
+---
+
+## 📂 Featured Projects
+- 🔹 Loan Amortization Model  
+- 🔹 Airbnb Price Analysis  
+- 🔹 iPhone Sales Insights  
+- 🔹 House Price Prediction  
+- 🔹 Credit Fraud Detection  
+
+---
+
+## 🌍 Let's Connect
+- GitHub: https://github.com/mumobytes
