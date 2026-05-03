@@ -1,8 +1,7 @@
 ### Hi, I'm Brian 👋
-
-🎓 Actuarial Science Student at University of Nairobi  
-📊 Aspiring Data Scientist & Machine Learning Engineer  
-💻 Python | SQL | Data Analysis | Visualization  
+  
+Aspiring Data Scientist & Machine Learning Engineer  
+Python | SQL | Data Analysis | Visualization  
 
 ---
 
