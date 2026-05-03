@@ -1,4 +1,4 @@
-# Hi, I'm Brian 👋
+### Hi, I'm Brian 👋
 
 🎓 Actuarial Science Student at University of Nairobi  
 📊 Aspiring Data Scientist & Machine Learning Engineer  
