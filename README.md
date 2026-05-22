@@ -1,3 +1,3 @@
 ### Hi, I'm Brian 👋
-Glad to heear from you -) Lets connect (*-^)
+Glad to hear from you -) Lets connect (*-^)
 
