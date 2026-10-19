@@ -5,7 +5,7 @@
 ### MACHINE LEARNING ENGINEER
 **Deep Learning · Computer Vision · Predictive Modelling**
 
-*Quantitative thinking. Intelligent systems. Rigorous evaluation.*
+*Quantitative thinking. Intelligent systems.*
 
 <br/>
 
@@ -21,17 +21,15 @@
 
 <div align="center">
 
-**LANGUAGES & DATA**
+**LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,r,postgres&theme=light" alt="Python, R and PostgreSQL"/>
-
-**MACHINE LEARNING & DEEP LEARNING**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light" alt="PyTorch and scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=python,r,javascript,sql&theme=light" alt="Python, R, JavaScript and SQL"/>
 
 **ENGINEERING & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,linux,vscode&theme=light" alt="FastAPI, Git, GitHub, Docker, Linux and VS Code"/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light" alt="PyTorch and scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=react,django,fastapi&theme=light" alt="React, Django and FastAPI"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=light" alt="Git, GitHub, Docker, Linux and VS Code"/>
 
 </div>
 
@@ -40,14 +38,15 @@
 
 | Domain | Technologies and methods |
 |:---|:---|
-| **Programming** | Python, R, SQL |
-| **Data science** | NumPy, pandas, scikit-learn, exploratory data analysis |
+| **Languages** | Python, R, JavaScript, SQL |
+| **Data science** | pandas, NumPy, scikit-learn, Seaborn, Matplotlib, Jupyter Notebook |
 | **Deep learning** | PyTorch, CNNs, ResNet, ConvNeXt, Vision Transformers |
 | **Computer vision** | Transfer learning, fine-tuning, image classification, Grad-CAM |
 | **Representation learning** | Contrastive learning, image-text alignment, Mini-CLIP |
 | **Forecasting** | LightGBM, time-series feature engineering, temporal backtesting |
+| **Web & APIs** | React, Django, FastAPI |
 | **Quantitative modelling** | Probability, statistical modelling, actuarial valuation, risk analysis |
-| **Engineering** | FastAPI, Git, GitHub, CI/CD concepts, model evaluation pipelines |
+| **Engineering** | Git, GitHub, Docker, Linux, CI/CD concepts, model evaluation pipelines |
 
 </details>
 
