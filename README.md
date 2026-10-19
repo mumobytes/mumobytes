@@ -1,6 +1,6 @@
  <div align="center">
 
-# BRIAN MUMO MUTUKU
+# MUMO BRIAN
 
 ### MACHINE LEARNING ENGINEER
 **Deep Learning · Computer Vision · Predictive Modelling**
