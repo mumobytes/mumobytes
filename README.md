@@ -1,13 +1,62 @@
-<div align="center">
+ <div align="center">
 
-# Brian Mumo
-### Machine Learning Engineer & Actuarial Modeler
-*Bridging quantitative risk theory, deep learning pipelines, and production inference systems.*
+# BRIAN MUMO MUTUKU
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Zindi Profile](https://img.shields.io/badge/Zindi-Competitor-orange?style=flat-square)](https://zindi.africa/users/your-zindi)
-[![Portfolio / Web](https://img.shields.io/badge/Web-FastAPI%20Demos-009688?style=flat-square&logo=fastapi&logoColor=white)](https://your-portfolio-or-site.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### MACHINE LEARNING ENGINEER
+**Deep Learning · Computer Vision · Predictive Modelling**
+
+*Quantitative thinking. Intelligent systems. Rigorous evaluation.*
+
+<br/>
+
+<a href="https://github.com/mumobytes"><img src="https://img.shields.io/badge/GitHub-Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/mumo-mutuku/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mumobrian48@gmail.com.com"><img src="https://img.shields.io/badge/Email-Contact-8B2635?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 ---
 
+### `01` / TECH STACK
+
+<div align="center">
+
+**LANGUAGES & DATA**
+
+<img src="https://skillicons.dev/icons?i=python,r,postgres&theme=light" alt="Python, R and PostgreSQL"/>
+
+**MACHINE LEARNING & DEEP LEARNING**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light" alt="PyTorch and scikit-learn"/>
+
+**ENGINEERING & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,linux,vscode&theme=light" alt="FastAPI, Git, GitHub, Docker, Linux and VS Code"/>
+
+</div>
+
+<details>
+<summary><b>Full technical toolkit</b></summary>
+
+| Domain | Technologies and methods |
+|:---|:---|
+| **Programming** | Python, R, SQL |
+| **Data science** | NumPy, pandas, scikit-learn, exploratory data analysis |
+| **Deep learning** | PyTorch, CNNs, ResNet, ConvNeXt, Vision Transformers |
+| **Computer vision** | Transfer learning, fine-tuning, image classification, Grad-CAM |
+| **Representation learning** | Contrastive learning, image-text alignment, Mini-CLIP |
+| **Forecasting** | LightGBM, time-series feature engineering, temporal backtesting |
+| **Quantitative modelling** | Probability, statistical modelling, actuarial valuation, risk analysis |
+| **Engineering** | FastAPI, Git, GitHub, CI/CD concepts, model evaluation pipelines |
+
+</details>
+
+---
+
+
+
+<a href="https://github.com/mumobytes?tab=repositories">EXPLORE REPOSITORIES</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/mumo-mutuku/">CONNECT ON LINKEDIN</a>
+
+</div>
