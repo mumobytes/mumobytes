@@ -1,7 +1,5 @@
  <div align="center">
 
-# MUMO BRIAN
-
 ### MACHINE LEARNING ENGINEER
 **Deep Learning · Computer Vision · Predictive Modelling**
 
